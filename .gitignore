@@ -26,3 +26,4 @@ out/
 # Miscellaneous
 *.swp
 *.swonode_modules/
+node_modules/
